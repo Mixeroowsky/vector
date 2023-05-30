@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector graphic viewer", "Vector graphic viewer.csproj", "{D527BD56-CD1E-4529-967F-D2C4E5E20A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D527BD56-CD1E-4529-967F-D2C4E5E20A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D527BD56-CD1E-4529-967F-D2C4E5E20A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D527BD56-CD1E-4529-967F-D2C4E5E20A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D527BD56-CD1E-4529-967F-D2C4E5E20A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D001C765-1853-4E2E-8D02-8B7E62C9204D}
+	EndGlobalSection
+EndGlobal
